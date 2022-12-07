@@ -1,0 +1,38 @@
+h1 {
+    color: aqua;
+    border-style: dotted;
+    border-radius: 30px;
+    border-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    box-shadow: 5px 5px greenyellow;
+}
+body {
+    height: 100%;
+    background-color: #E97777;
+    list-style-position: inside;
+    text-align: center;
+}
+.menü {
+    border-radius: 30px;
+    background-color:azure;
+    color: red;
+    list-style: none;
+    display: block;
+    
+}
+.menü li {
+
+    margin: 20px;
+    display: inline;
+    position: relative;
+}
+hr {
+    width: 70%;
+}
+/*footer {
+    height: 10%;
+    position:relative;
+    
+}*/
